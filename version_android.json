@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "apk_url": "https://github.com",
+  "changelog": "• Добавлен импорт и экспорт pw_data.json\n• Улучшено редактирование этапов заданий"
+}
